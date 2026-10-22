@@ -1,0 +1,256 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : Schulmann Upright.sf2
+// Author    : Simone Piervergili
+// Copyright : Libre
+// Date      : 2026/10/22
+// Comment   : 
+
+<group>
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_release=0.600124
+loop_mode=loop_continuous
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\S-Upright 021.wav
+volume=3
+lokey=0 hikey=22
+pitch_keycenter=21
+offset=0
+end=64228
+loop_start=47856
+loop_end=60042
+
+<region>
+sample=samples\S-Upright 024.wav
+volume=3
+lokey=23 hikey=25
+pitch_keycenter=24
+offset=0
+end=48219
+loop_start=37202
+loop_end=48219
+
+<region>
+sample=samples\S-Upright 027.wav
+volume=3
+lokey=26 hikey=28
+pitch_keycenter=27
+offset=0
+end=70894
+loop_start=54858
+loop_end=70894
+
+<region>
+sample=samples\S-Upright 030.wav
+volume=3
+lokey=29 hikey=31
+pitch_keycenter=30
+offset=0
+end=77141
+loop_start=62561
+loop_end=69046
+
+<region>
+sample=samples\S-Upright 033.wav
+volume=3
+lokey=32 hikey=34
+pitch_keycenter=33
+offset=0
+end=75990
+loop_start=53575
+loop_end=71430
+
+<region>
+sample=samples\S-Upright 036.wav
+volume=3
+lokey=35 hikey=37
+pitch_keycenter=36
+offset=0
+end=43796
+loop_start=37428
+loop_end=43796
+
+<region>
+sample=samples\S-Upright 039.wav
+volume=3
+lokey=38 hikey=40
+pitch_keycenter=39
+offset=0
+end=77215
+loop_start=64150
+loop_end=77215
+
+<region>
+sample=samples\S-Upright 042.wav
+volume=3
+lokey=41 hikey=43
+pitch_keycenter=42
+offset=0
+end=88037
+loop_start=77094
+loop_end=88037
+
+<region>
+sample=samples\S-Upright 048.wav
+volume=3
+lokey=44 hikey=49
+pitch_keycenter=48
+offset=0
+end=68425
+loop_start=62084
+loop_end=67886
+
+<region>
+sample=samples\S-Upright 051.wav
+volume=3
+lokey=50 hikey=52
+pitch_keycenter=51
+offset=0
+end=64693
+loop_start=55027
+loop_end=64693
+
+<region>
+sample=samples\S-Upright 054.wav
+volume=3
+lokey=53 hikey=55
+pitch_keycenter=54
+offset=0
+end=75241
+loop_start=63634
+loop_end=75241
+
+<region>
+sample=samples\S-Upright 060.wav
+volume=3
+lokey=56 hikey=61
+pitch_keycenter=60
+offset=0
+end=62705
+loop_start=47697
+loop_end=52826
+
+<region>
+sample=samples\S-Upright 063.wav
+volume=3
+lokey=62 hikey=64
+pitch_keycenter=63
+offset=0
+end=57178
+loop_start=50325
+loop_end=57178
+
+<region>
+sample=samples\S-Upright 066.wav
+volume=3
+lokey=65 hikey=69
+pitch_keycenter=66
+offset=0
+end=67098
+loop_start=61333
+loop_end=66745
+
+<region>
+sample=samples\S-Upright 072.wav
+volume=3
+lokey=70 hikey=73
+pitch_keycenter=72
+offset=0
+end=104210
+loop_start=88431
+loop_end=96939
+
+<region>
+sample=samples\S-Upright 075.wav
+volume=3
+lokey=74 hikey=76
+pitch_keycenter=75
+offset=0
+end=50817
+loop_start=46593
+loop_end=50761
+
+<region>
+sample=samples\S-Upright 078.wav
+volume=3
+lokey=77 hikey=79
+pitch_keycenter=78
+offset=0
+end=61935
+loop_start=56860
+loop_end=61862
+
+<region>
+sample=samples\S-Upright 084.wav
+volume=3
+lokey=80 hikey=85
+pitch_keycenter=84
+offset=0
+end=85528
+loop_start=69489
+loop_end=76364
+
+<region>
+sample=samples\S-Upright 087.wav
+volume=3
+lokey=86 hikey=88
+pitch_keycenter=87
+offset=0
+end=58975
+loop_start=49851
+loop_end=54588
+
+<region>
+sample=samples\S-Upright 090.wav
+volume=3
+lokey=89 hikey=91
+pitch_keycenter=90
+offset=0
+end=73696
+loop_start=63698
+loop_end=69703
+
+<region>
+sample=samples\S-Upright 096.wav
+volume=3
+lokey=92 hikey=97
+pitch_keycenter=96
+offset=0
+end=58097
+loop_start=45962
+loop_end=50730
+
+<region>
+sample=samples\S-Upright 099.wav
+volume=3
+lokey=98 hikey=100
+pitch_keycenter=99
+offset=0
+end=52845
+loop_start=41799
+loop_end=46274
+
+<region>
+sample=samples\S-Upright 102.wav
+volume=3
+lokey=101 hikey=105
+pitch_keycenter=102
+offset=0
+end=82351
+loop_start=66169
+loop_end=72902
+
+<region>
+sample=samples\S-Upright 108.wav
+volume=3
+lokey=106 hikey=127
+pitch_keycenter=108
+offset=0
+end=24961
+loop_start=21939
+loop_end=23990
